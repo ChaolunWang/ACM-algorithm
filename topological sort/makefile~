@@ -1,0 +1,2 @@
+topo.x: topo.cpp
+	g++ -o topo.x topo.cpp
